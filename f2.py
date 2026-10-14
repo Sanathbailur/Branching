@@ -1,0 +1,2 @@
+string = "empty"
+print(string)
